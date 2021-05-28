@@ -17,3 +17,6 @@ Run `python mode_vae_with_comment.py` to start training the UNHCLE model. Models
 The model is trained for 100 epochs. Use `train()` for training and `evaluate()` for evaluation.
 
 For evaluation and TW-IoU calculation, set batch_size = 1 and use appropriate feature files in dataloader and code.
+
+### License
+CC-BY-NC 4.0
